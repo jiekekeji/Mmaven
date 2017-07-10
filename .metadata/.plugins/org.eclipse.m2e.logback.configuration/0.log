@@ -35,3 +35,7 @@
 2017-07-10 17:28:21,826 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
 2017-07-10 17:28:33,553 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\my-javaweb\Mmaven\demo001
 2017-07-10 17:28:33,553 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B tomcat:run
+2017-07-10 17:56:29,552 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-10 17:56:29,553 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-10 17:56:29,554 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-10 17:56:29,554 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\my-javaweb\Mmaven\demo001\src\test\resources
