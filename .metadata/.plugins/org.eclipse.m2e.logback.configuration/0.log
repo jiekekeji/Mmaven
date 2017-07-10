@@ -1,0 +1,37 @@
+2017-07-10 17:26:46,774 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' F:\my-javaweb\Mmaven\demo001\pom.xml
+2017-07-10 17:26:48,383 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: jiekekeji:demo001:0.0.1-SNAPSHOT @ F:\my-javaweb\Mmaven\demo001\pom.xml.
+2017-07-10 17:26:49,602 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo001/src/main/java
+2017-07-10 17:26:49,602 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo001/src/main/resources
+2017-07-10 17:26:49,602 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo001/src/test/java
+2017-07-10 17:26:56,047 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 9 sec
+2017-07-10 17:26:56,537 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-10 17:26:56,540 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-10 17:26:56,542 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-10 17:26:56,543 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\my-javaweb\Mmaven\demo001\src\test\resources
+2017-07-10 17:26:57,688 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-10 17:26:57,690 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-10 17:26:57,691 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-10 17:26:57,691 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\my-javaweb\Mmaven\demo001\src\test\resources
+2017-07-10 17:28:00,683 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: jiekekeji:demo001:0.0.1-SNAPSHOT @ F:\my-javaweb\Mmaven\demo001\pom.xml.
+2017-07-10 17:28:01,349 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-10 17:28:01,351 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-10 17:28:01,353 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-10 17:28:01,354 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\my-javaweb\Mmaven\demo001\src\test\resources
+2017-07-10 17:28:01,354 [Worker-14] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of demo001
+2017-07-10 17:28:01,355 [Worker-14] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for demo001
+2017-07-10 17:28:01,359 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-10 17:28:02,431 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-10 17:28:02,432 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-10 17:28:02,433 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-10 17:28:02,433 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\my-javaweb\Mmaven\demo001\src\test\resources
+2017-07-10 17:28:13,525 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: jiekekeji:demo001:0.0.1-SNAPSHOT @ F:\my-javaweb\Mmaven\demo001\pom.xml.
+2017-07-10 17:28:13,979 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-10 17:28:13,980 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-10 17:28:13,982 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-10 17:28:13,983 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\my-javaweb\Mmaven\demo001\src\test\resources
+2017-07-10 17:28:13,983 [Worker-2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of demo001
+2017-07-10 17:28:13,983 [Worker-2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for demo001
+2017-07-10 17:28:13,986 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-10 17:28:21,826 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-07-10 17:28:33,553 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\my-javaweb\Mmaven\demo001
+2017-07-10 17:28:33,553 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B tomcat:run
